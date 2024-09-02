@@ -5,6 +5,7 @@ export default function Home() {
         <>
             <Link className="px-4 py-2 bg-black text-white rounded-md" href="/client">Client (React)</Link>
             <Link className="px-4 py-2 bg-black text-white rounded-md" href="/server">Server (Next.Js)</Link>
+            <Link className="px-4 py-2 bg-black text-white rounded-md" href="/dragdrop">Drag n Drop</Link>
         </>
     )
 }
